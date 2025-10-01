@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="pt-BR" dir="ltr" itemscope itemtype="https://schema.org/Blog">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <title>Pedro Rios — Blog sobre café, aprendizados e experimentos</title>
+  <meta name="description" content="Blog de Pedro Rios: café, métodos de preparo, moagem, extração e aprendizados práticos para baristas amadores e entusiastas.">
+  <meta name="keywords" content="café, barista amador, métodos de preparo, V60, Kalita, espresso, moagem, extração, água, café filtrado">
+  <meta name="theme-color" content="#2f4f79">
+  <link rel="canonical" href="http://localhost:8000/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Pedro Rios — Blog sobre café, aprendizados e experimentos">
+  <meta property="og:description" content="Café, estudo e pequenas vitórias diárias.">
+  <meta property="og:url" content="http://localhost:8000/">
+  <meta property="og:locale" content="pt_BR">
+  <meta name="twitter:card" content="summary">
+  <style>
+    :root{
+      --bg:#f6f7f9;--paper:#fff;--text:#1f2833;--muted:#4a5568;--primary:#2f4f79;--primary-strong:#243c5a;
+      --accent:#6a9ea1;--accent-strong:#4d7678;--border:#d9dde5;--focus:#ffb100;--radius:12px;--shadow:0 6px 20px rgba(20,34,55,.08);
+      --font-sys:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;--maxw:74rem;
+    }
+    @media(prefers-color-scheme:dark){
+      :root{--bg:#0f1720;--paper:#111925;--text:#e8edf4;--muted:#b6c2d1;--primary:#93b9ff;--primary-strong:#6ea5ff;--border:#223047;--focus:#ffd166;--shadow:none}
+    }
+    *{box-sizing:border-box}
+    html:focus-within{scroll-behavior:smooth}
+    body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 var(--font-sys)}
+    a{color:var(--primary);text-underline-offset:.2em} a:hover{color:var(--primary-strong)}
+    :focus-visible{outline:3px solid var(--focus);outline-offset:3px}
+    .container{max-width:var(--maxw);margin-inline:auto;padding:0 1rem}
+    header.site{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.8);backdrop-filter:saturate(140%) blur(8px);border-bottom:1px solid var(--border)}
+    @media(prefers-color-scheme:dark){header.site{background:rgba(17,25,37,.7)}}
+    .brand{display:flex;align-items:center;gap:.75rem;padding:1rem 0}
+    .logo{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:linear-gradient(135deg,#2f4f79,#6a9ea1);color:#fff;font-weight:700;box-shadow:var(--shadow)}
+    nav[aria-label="Primária"] a{display:inline-block;padding:.5rem .75rem;border-radius:8px;margin-right:.25rem}
+    nav[aria-label="Primária"] a[aria-current="page"]{background:var(--primary);color:#fff;text-decoration:none}
+    .hero{display:grid;gap:1.5rem;padding:3rem 0 2rem}
+    .hero h1{font-size:clamp(1.75rem,2.5vw + 1rem,2.6rem);line-height:1.2;margin:0}
+    .kicker{letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+    .cta{display:inline-flex;align-items:center;gap:.5rem;border:none;background:var(--primary);color:#fff;padding:.9rem 1.1rem;border-radius:12px;font-weight:600;cursor:pointer;box-shadow:var(--shadow)}
+    .cta:hover{background:var(--primary-strong)} .cta:active{transform:translateY(1px)}
+    .grid{display:grid;gap:1.5rem} @media(min-width:860px){.grid{grid-template-columns:repeat(3,1fr)}}
+    .card{background:var(--paper);border:1px solid var(--border);border-radius:var(--radius);padding:1.5rem;box-shadow:var(--shadow)}
+    .card h3{margin-top:0}
+    .pill{display:inline-block;padding:.25rem .5rem;border-radius:999px;background:color-mix(in oklab, var(--accent) 25%, transparent);border:1px solid color-mix(in oklab, var(--accent) 60%, var(--border));color:var(--accent-strong);font-size:.85rem}
+    section{padding:2rem 0}
+    .divider{height:1px;background:var(--border);margin:1rem 0}
+    footer{padding:1.5rem 0;border-top:1px solid var(--border)}
+    .muted{color:var(--muted)} .prose p{margin:0 0 1rem}
+  </style>
+</head>
+<body>
+  <a class="visually-hidden" href="#conteudo">Pular para o conteúdo</a>
+
+  <header class="site" role="banner">
+    <div class="container">
+      <div class="brand" itemscope itemtype="https://schema.org/Person">
+        <div class="logo" aria-hidden="true">PR</div>
+        <div>
+          <strong itemprop="name">Pedro Rios</strong><br>
+          <span class="muted" itemprop="description">Café, estudo e pequenas vitórias diárias.</span>
+          <meta itemprop="jobTitle" content="Comentarista e aspirante a barista">
+        </div>
+        <nav aria-label="Primária" class="container" style="margin-left:auto;padding:0">
+          <a href="#inicio" aria-current="page">Início</a>
+          <a href="#posts">Postagens</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main id="conteudo" tabindex="-1">
+    <section id="inicio" aria-labelledby="heading-inicio">
+      <div class="container">
+        <div class="hero">
+          <div>
+            <span class="kicker">Blog • Café & Estudo</span>
+
+            <!-- Identidade principal -->
+            <h1 id="heading-inicio">Pedro Rios</h1>
+
+            <!-- Sub-identidade (papéis principais) -->
+            <h2>Médico. Barista. Comentarista.</h2>
+
+            <!-- Frase de impacto ou lema -->
+            <h3>Medicina, cafeína, jogatina.</h3>
+
+            <!-- Linha complementar (metáforas e trocadilhos) -->
+            <p class="muted">
+              Entre diagnósticos, extrações e comentários.<br>
+              Pressão arterial, pressão de extração e pressão no pocket.
+            </p>
+
+            <div>
+              <a class="cta" href="#posts">Veja no que estou me aprofundando</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Grade de posts (renderizados via posts.json) -->
+        <section id="posts" aria-labelledby="heading-posts">
+          <h2 id="heading-posts" class="visually-hidden">Postagens</h2>
+          <div id="posts-grid" class="grid" role="list" aria-label="Posts recentes"></div>
+          <noscript><p class="muted">Ative o JavaScript para ver os posts.</p></noscript>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <footer role="contentinfo">
+    <div class="container">
+      <small class="muted">© <span id="year"></span> Pedro Rios • Blog pessoal.</small>
+    </div>
+  </footer>
+
+  <script>
+    (function(){
+      const y = document.getElementById('year');
+      if(y) y.textContent = new Date().getFullYear();
+    })();
+
+    (function(){
+      const grid = document.getElementById('posts-grid');
+      if(!grid) return;
+
+      fetch('posts.json', { cache: 'no-store' })
+        .then(r => r.ok ? r.json() : Promise.reject('Não foi possível carregar posts.json'))
+        .then(posts => {
+          posts.sort((a, b) => new Date(b.datePublished) - new Date(a.datePublished));
+          for (const post of posts) {
+            const card = document.createElement('article');
+            card.className = 'card';
+            card.setAttribute('role','listitem');
+            card.setAttribute('itemscope','');
+            card.setAttribute('itemtype','https://schema.org/BlogPosting');
+
+            card.innerHTML = `
+              <header>
+                <span class="pill">${escapeHTML(post.tag || 'Nota')}</span>
+                <h3 itemprop="headline">${escapeHTML(post.title || 'Sem título')}</h3>
+                <p class="muted" itemprop="description">${escapeHTML(post.description || '')}</p>
+              </header>
+              <div class="divider" aria-hidden="true"></div>
+              <p class="prose" itemprop="articleBody">${escapeHTML(post.excerpt || '')}</p>
+              <p><a href="${escapeAttr(post.url || '#')}" aria-label="Ler post completo: ${escapeAttr(post.title || '')}">Leia mais →</a></p>
+              <meta itemprop="datePublished" content="${escapeAttr(post.datePublished || '')}">
+            `;
+            grid.appendChild(card);
+          }
+          if(!posts.length){
+            const empty = document.createElement('p');
+            empty.className = 'muted';
+            empty.textContent = 'Ainda não há posts.';
+            grid.appendChild(empty);
+          }
+        })
+        .catch(err => {
+          const warn = document.createElement('p');
+          warn.className = 'muted';
+          warn.textContent = 'Não foi possível carregar os posts agora.';
+          grid.appendChild(warn);
+          console.warn(err);
+        });
+
+      function escapeHTML(str){
+        return String(str)
+          .replaceAll('&','&amp;')
+          .replaceAll('<','&lt;')
+          .replaceAll('>','&gt;')
+          .replaceAll('"','&quot;')
+          .replaceAll("'","&#39;");
+      }
+      function escapeAttr(str){
+        return escapeHTML(str).replaceAll('"','&quot;');
+      }
+    })();
+  </script>
+
+  <style>
+    .visually-hidden{
+      position:absolute !important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;
+      clip:rect(0 0 0 0);white-space:nowrap;border:0;
+    }
+  </style>
+</body>
+</html>
