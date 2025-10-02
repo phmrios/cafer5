@@ -1,0 +1,46 @@
+---
+tag: Artigo
+title: <TÍTULO CLARO E ESPECÍFICO (≤65 caracteres)>
+description: <Resumo em 1–2 frases (meta description/SEO - Search Engine Optimization)>
+datePublished: 2025-10-02
+slug: <titulo-em-kebab-case-sem-acentos>
+---
+
+# <TÍTULO (igual ao 'title' acima)>
+
+<!--
+COMO USAR
+- Mantenha estas 5 linhas de metadados nas 10 primeiras linhas e separe do corpo com uma linha em branco.
+- Use data no formato ISO: YYYY-MM-DD.
+- 'slug' será usado para gerar /posts/<slug>.html.
+- Para imagens, prefira HTML direto: <img src="..." alt="..." width="..."> (o conversor atual não trata ![alt](src) como <img>).
+- Expanda siglas na PRIMEIRA ocorrência: exemplo "CI/CD (Continuous Integration/Continuous Delivery - Integração Contínua/Entrega Contínua)".
+-->
+
+## Contexto e Promessa
+Explique em 2–4 linhas:
+- Problema específico.
+- Resultado que o leitor alcança (o “antes → depois”).
+- Para quem é (persona/nível).
+
+## Sumário Rápido
+- O que você vai aprender.
+- Pré-requisitos (se houver).
+- Tempo de leitura: ~X min.
+
+## Seção 1 — Fundamentos
+Explique o essencial de forma simples (KISS — Keep It Simple, Stupid).
+- Definições essenciais (expanda siglas na primeira vez).
+- Exemplos pequenos e progressivos.
+
+## Seção 2 — Passo a Passo / Procedimento
+1. Passo 1: …
+2. Passo 2: …
+3. Passo 3: …
+> Dica: mantenha cada passo com uma única responsabilidade (SRP — Single Responsibility Principle / Princípio da Responsabilidade Única).
+
+## Seção 3 — Exemplos Reprodutíveis
+Código, comandos, trechos de configuração.
+```bash
+# exemplo: comandos mínimos para reproduzir
+echo "Olá, mundo"
