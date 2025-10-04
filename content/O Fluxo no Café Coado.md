@@ -1,9 +1,9 @@
 ---
-tag: Artigo
+tag: Papo
 title: O Fluxo no Café Coado — Controlar a Água é Domar o Sabor
 description: Uma viagem pela história que quanto mais o tempo passa, menos será justo, a ela, se atribuir o artigo indefinido.
 datePublished: 2025-10-04
-slug: historia-do-cafe-grao-xicara
+slug: fluxo-no-cafe-coado
 ---
 
 # **O Fluxo no Café Coado — Controlar a Água é Domar o Sabor**

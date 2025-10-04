@@ -8,12 +8,20 @@
     "url": "posts/historia-do-cafe-grao-xicara.html"
   },
   {
-    "tag": "Artigo",
+    "tag": "Papo",
     "title": "O Fluxo no Café Coado — Controlar a Água é Domar o Sabor",
     "description": "Uma viagem pela história que quanto mais o tempo passa, menos será justo, a ela, se atribuir o artigo indefinido.",
     "excerpt": "# **O Fluxo no Café Coado — Controlar a Água é Domar o Sabor** Sabe quando o café fica estranho e você não entende bem o porquê? Nem sempre é culpa da torra ou do moedor. Muitas vezes é só o **ritmo da água**. O jeito que a gente despeja a água sobre o café — a **velocidade, o fluxo,...",
     "datePublished": "1970-01-01",
-    "url": "posts/historia-do-cafe-grao-xicara.html"
+    "url": "posts/fluxo-no-cafe-coado.html"
+  },
+  {
+    "tag": "Papo",
+    "title": "Painel Técnico de Extração V60 — Proporção Fixa 1:15",
+    "description": "Seis perfis práticos para V60 (Hario V60) com tempos, temperaturas e fluxos, além de tabela de cliques para 1Zpresso ZP6 Special e MHW-3Bomber Blade R3.",
+    "excerpt": "--- tag: Papo title: Painel Técnico de Extração V60 — Proporção Fixa 1:15 description: Seis perfis práticos para V60 (Hario V60) com tempos, temperaturas e fluxos, além de tabela de cliques para 1Zpresso ZP6 Special e MHW-3Bomber Blade R3. datePublished: 2025-10-04 slug: painel-tecnico-v60-1-15 keywords: - V60 - café coado - extração - proporção 1:15 - 1Zpresso ZP6 Special - MHW-3Bomber...",
+    "datePublished": "1970-01-01",
+    "url": "posts/painel-tecnico-v60-1-15.html"
   },
   {
     "tag": "Receita",
