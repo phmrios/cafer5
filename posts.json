@@ -1,10 +1,26 @@
 [
   {
+    "tag": "Artigo",
+    "title": "A história de um padrão",
+    "description": "Uma viagem pela história que quanto mais o tempo passa, menos será justo, a ela, se atribuir o artigo indefinido.",
+    "excerpt": "Nos anos 1940, a indústria americana do café enfrentava um problema simples e, ao mesmo tempo, civilizacional: todos bebiam café, mas ninguém sabia preparar café bom de modo consistente. Era uma loteria química. Alguns conseguiam um sabor decente; outros, algo que lembrava borra queimada. Isso não era tolerável num país que já transformava tudo em ciência — inclusive o gosto...",
+    "datePublished": "1970-01-01",
+    "url": "posts/historia-do-cafe-grao-xicara.html"
+  },
+  {
     "tag": "Receita",
     "title": "Receita neutra de exploração na prensa francesa",
     "description": "Método neutro para explorar e conhecer o café na prensa francesa com clareza sensorial.",
     "excerpt": "# Receita neutra de exploração (Prensa Francesa) ## Contexto e Promessa Muitos métodos de prensa francesa deixam resíduos e mascaram os atributos do café. Aqui você aprende uma receita **neutra e limpa**, que revela acidez, doçura, corpo e final sem interferências. É ideal para **avaliar um novo café** e construir seu perfil sensorial antes de personalizar. ## Sumário Rápido -...",
     "datePublished": "1970-01-01",
     "url": "posts/receita-neutra-exploracao-prensa-francesa.html"
+  },
+  {
+    "tag": "Artigo",
+    "title": "A 'xícara dourada'; como a ciência domou o café (e o que o V60 fez com isso)",
+    "description": "Da padronização de Ernest E. Lockhart no Coffee Brewing Institute ao V60 japonês — uma linha do tempo prática para extrair café limpo, repetível e justo.",
+    "excerpt": "# A “xícara dourada”: como a ciência domou o café (e o que o V60 fez com isso) ## Por que isso importa Nos anos 1940, os Estados Unidos bebiam muito café, mas raramente bom — o preparo era uma “loteria química”. Foi nesse contexto que **Ernest Earl Lockhart** (formado no **MIT — Massachusetts Institute of Technology**) assumiu a missão...",
+    "datePublished": "1970-01-01",
+    "url": "posts/xicara-dourada-ciencia-cafe-v60.html"
   }
 ]
