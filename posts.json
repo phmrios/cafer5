@@ -1,27 +1,11 @@
 [
   {
-    "tag": "Artigo",
-    "title": "A história de um padrão",
-    "description": "Uma viagem pela história que quanto mais o tempo passa, menos será justo, a ela, se atribuir o artigo indefinido.",
-    "excerpt": "Nos anos 1940, a indústria americana do café enfrentava um problema simples e, ao mesmo tempo, civilizacional: todos bebiam café, mas ninguém sabia preparar café bom de modo consistente. Era uma loteria química. Alguns conseguiam um sabor decente; outros, algo que lembrava borra queimada. Isso não era tolerável num país que já transformava tudo em ciência — inclusive o gosto...",
+    "tag": "Informal",
+    "title": "\"Livrinho de Receitas\"",
+    "description": "\"Compilação receitas que um dia por mim foram feitas, no V60 — incluindo métodos de James Hoffmann, Scott Rao, Lance Hendrick e outros.\"",
+    "excerpt": "Achei um livrinho, que fiz a mão, nem sei quando fiz ou há quanto tempo ele ta por ai perdido... Enfim, eu achei ele e transcreve-lo-ei aqui para vocês e para mim, vamos ter essa relíquia aqui 4ever ``` ===================================================== LIVRINHO – RECEITAS V60 ===================================================== Compilado por: Pedro Rios Edição: Outubro de 2025 Método: V60 – Filtrados ===================================================== ----------------------------------------------------- ÍNDICE...",
     "datePublished": "1970-01-01",
-    "url": "posts/historia-do-cafe-grao-xicara.html"
-  },
-  {
-    "tag": "Papo",
-    "title": "O Fluxo no Café Coado — Controlar a Água é Domar o Sabor",
-    "description": "Uma viagem pela história que quanto mais o tempo passa, menos será justo, a ela, se atribuir o artigo indefinido.",
-    "excerpt": "# **O Fluxo no Café Coado — Controlar a Água é Domar o Sabor** Sabe quando o café fica estranho e você não entende bem o porquê? Nem sempre é culpa da torra ou do moedor. Muitas vezes é só o **ritmo da água**. O jeito que a gente despeja a água sobre o café — a **velocidade, o fluxo,...",
-    "datePublished": "1970-01-01",
-    "url": "posts/fluxo-no-cafe-coado.html"
-  },
-  {
-    "tag": "Papo",
-    "title": "Painel Técnico de Extração V60 — Proporção Fixa 1:15",
-    "description": "Seis perfis práticos para V60 (Hario V60) com tempos, temperaturas e fluxos, além de tabela de cliques para 1Zpresso ZP6 Special e MHW-3Bomber Blade R3.",
-    "excerpt": "--- tag: Papo title: Painel Técnico de Extração V60 — Proporção Fixa 1:15 description: Seis perfis práticos para V60 (Hario V60) com tempos, temperaturas e fluxos, além de tabela de cliques para 1Zpresso ZP6 Special e MHW-3Bomber Blade R3. datePublished: 2025-10-04 slug: painel-tecnico-v60-1-15 keywords: - V60 - café coado - extração - proporção 1:15 - 1Zpresso ZP6 Special - MHW-3Bomber...",
-    "datePublished": "1970-01-01",
-    "url": "posts/painel-tecnico-v60-1-15.html"
+    "url": "posts/livrinho-v60.html"
   },
   {
     "tag": "Receita",
@@ -30,13 +14,5 @@
     "excerpt": "# Receita neutra de exploração (Prensa Francesa) ## Contexto e Promessa Muitos métodos de prensa francesa deixam resíduos e mascaram os atributos do café. Aqui você aprende uma receita **neutra e limpa**, que revela acidez, doçura, corpo e final sem interferências. É ideal para **avaliar um novo café** e construir seu perfil sensorial antes de personalizar. ## Sumário Rápido -...",
     "datePublished": "1970-01-01",
     "url": "posts/receita-neutra-exploracao-prensa-francesa.html"
-  },
-  {
-    "tag": "Artigo",
-    "title": "A 'xícara dourada'; como a ciência domou o café (e o que o V60 fez com isso)",
-    "description": "Da padronização de Ernest E. Lockhart no Coffee Brewing Institute ao V60 japonês — uma linha do tempo prática para extrair café limpo, repetível e justo.",
-    "excerpt": "# A “xícara dourada”: como a ciência domou o café (e o que o V60 fez com isso) ## Por que isso importa Nos anos 1940, os Estados Unidos bebiam muito café, mas raramente bom — o preparo era uma “loteria química”. Foi nesse contexto que **Ernest Earl Lockhart** (formado no **MIT — Massachusetts Institute of Technology**) assumiu a missão...",
-    "datePublished": "1970-01-01",
-    "url": "posts/xicara-dourada-ciencia-cafe-v60.html"
   }
 ]
